@@ -1,0 +1,19 @@
+services:
+    cs:
+        container_name: cs-source
+        image: evgeniyfimushkin/cs-source:1.0
+        build: .
+        ports:
+            - "27016:27016/udp"
+            - "27016:27016/tcp"
+            - "27017:80/tcp"
+        environment:
+            PORT: 27016
+            MAP: "de_train"
+            MAXPLAYERS: 22
+            # DOWNLOAD_URL: "127.0.0.1:27017"
+            RCON_PASSWORD: "admin"
+        volumes:
+            - ./configs/server.cfg:/css/cstrike/cfg/server.cfg
+            - ./configs/admins_simple.ini:/css/cstrike/addons/sourcemod/configs/admins_simple.ini
+        restart: always
