@@ -1,0 +1,20 @@
+de_losttemple 
+-----------------------------------------------
+by Magikus & StarD00d (d00ds.com)
+presented by http://www.inHalflife.de by ingame
+
+Description:
+-----------------------------------------------
+The central element of the map is the temple which can be reached using the crossing route from bombspot A to B. There are 3 ways for the terrorists as well as for the counter-terrorists. Looking from the CT spawn there is the left route to A and through the underpass. The central route leads through the water passing the bridge to the temple. The right route is leading through the hallway and to B (see overview picture).
+
+We tried to create a very balanced map that is fun to play using elements that strongly dominate the gameplay, i.e. the water and the bridge, the hallway and the underpass with the crossing line trough the temple. 
+
+Story:
+-----------------------------------------------
+An ancient and lost temple has been found. Archeologists discovered a great secret and are about to put the pieces together. Terrorists: Use the C4 to destroy one of the artifact puzzles the archeologists have already secured on A or B. Counter-Terrorists: Prevent terrorists from bombing the secured artifacts. 
+
+Notes and Contact:
+-----------------------------------------------
+If you have any comments or wish to get in contact, please give feedback to myrko@inHalflife.de or in the inHalflife.de forums!
+Copyright Notes: All custom textures used in this map may not be reused in other maps.
+Thanks to: Shiroko for some of his free models!

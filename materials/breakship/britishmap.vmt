@@ -1,0 +1,5 @@
+"LightmappedGeneric" 
+{ 
+	"$basetexture" "breakship/britishmap"
+	"$translucent" "1"
+}

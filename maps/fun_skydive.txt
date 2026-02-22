@@ -1,0 +1,49 @@
+..: fun_skydive - by: Spader :..
+
+..: INTRO :..
+I started mapping for Doom when that game came out (I was about 9 then).
+Nothing serious or hard working. I just added monsters and extra rooms to the map that already existed.
+Then when Q2 came out me and my friends started to map when we had one of our first LAN-partys.
+We made some store, a police house and some jail and other things. I made a car store and some other things.
+For HL I didnt do much. Just checked out worldcraft and so, never did anything actually. But now when HL2 came out
+my friend, "wh0", got me into mapping again.
+I started working on a map Im gonna call "de_science". It hasnt been released yet (im working on it).
+A serious map... It lasted 2 weeks till I needed a break. I needed to do something stupid. Maybe something that
+you couldnt play CS with :) Then this idea "flashbacked" on me.
+
+Ever since I first started to map a little for Quake 2 I've had this idea to make one long shaft
+that goes thru the whole map/grid.
+I never made anything about it till now when the HL2 SDK came out. And here it is:
+fun_skydive
+
+..: INSTALLATION :..
+Just unzip this zip in your X:\Steam\SteamApps\account\counter-strike source\cstrike\ folder
+Or manually put the bsp in the X:\Steam\SteamApps\account\counter-strike source\cstrike\maps\ folder and the
+material file in the X:\Steam\SteamApps\account\counter-strike source\cstrike\materials\ folder
+Then you're done
+
+..: GAME PLAY :..
+The T's and CT's starts out in tiny rooms. Each room got a button (and all buttons activates the floor).
+The floor disappears and the players starts falling instantly.
+The two shafts is approx 65324 units (~5443 feet , ~1660 meters).
+The players fall thru this shaft, trying to avoid obsticles, hit ramps, hit teleports, and this at the same
+time as killing the enemy.
+The obsticles are yellow and black and the ramps are silver. The teleports are all highlighted with a green light
+that's pulsating.
+
+The default sv_gravity setting for CS is 800. Although I recommend something between 100-600 to be fine (depending
+on what style of play u want. High grav = more skydiving. Low grav = more shooting), but 800 can be a lot of fun too.
+
+..: DISTRIBUTION :..
+You may distribute this map freely as long as this readme stays in this zip.
+And you may distribute the map in any map package if you want as long as you credit me for the map in the readme.
+You may also, if someone ever finds out, decompile the map and change it the way you wanna change it. As long as Im credited :)
+
+..: CONTACT :..
+There are many ways to contact me but most of these ways are only known by my friends.
+You, however. Can reach me on the following email/MSN address:
+darkling_of_hate@hotmail.com
+
+All forms of criticism are welcome, except for the (go fuck yerself and take the map with ya to hell) sort of messages.
+
+Have fun

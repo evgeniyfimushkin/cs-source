@@ -1,0 +1,11 @@
+Map for CS Source 11-09-04
+
+Map Name: nyaarena.bsp
+Mapper: --LimStift
+hampan@semera.se
+
+download this and other maps at:
+http://css.punkassfraggers.com/maps/
+
+
+To install, simply unzip to your cstrike/maps folder

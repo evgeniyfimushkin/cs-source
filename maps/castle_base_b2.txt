@@ -1,0 +1,20 @@
++----------------------------------------------------------------------------------------+
+
+Map By Duck - Source Development Team - http://halomoddingsite.com/meteoraCSS/index.php
+
++----------------------------------------------------------------------------------------+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
++----------------------------------------------------------------------------------------+
+Step #1 - Installing the map
++----------------------------------------------------------------------------------------+
+Once your download is complete, right click the map and then click copy. Go to your maps folder (C:\Program Files\Steam\SteamApps\USERNAME\counter-strike source\cstrike\maps) then right click anywhere in the white and click paste from the right click menu. 
+
++----------------------------------------------------------------------------------------+
+Step #2 - Installing the textures (Needed inorder for map to function properly)
++----------------------------------------------------------------------------------------+
+
+Then go into your materials folder and put the sdt.vtf and sdt.vmt into the materials folder. Teh your ready to play!
+
++----------------------------------------------------------------------------------------+
+||||||||||||||||||||||||||||||||||||||||http://halomoddingsite.com/meteoraCSS/index.php||||||||||||||||||||||||||||||||||||||
++----------------------------------------------------------------------------------------+

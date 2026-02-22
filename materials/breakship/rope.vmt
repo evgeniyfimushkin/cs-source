@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture"		"cable\rope"
+	"$bumpmap"		"cable\cablenormalmap"
+	"%compileladder" 1
+}

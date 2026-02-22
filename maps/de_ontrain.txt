@@ -1,0 +1,29 @@
+onTrainyard (Remake for CS: Source) - Bomb/Defuse
+
+Done by [LGC]*pOOrbOy* - #lgc-clan - www.r99t.de
+
+You are playing *** BETA2 *** Release: 01.02.2005
+
+ - This is old, new de_train: de_ontrain -
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the nuclear payloads on two
+trains. Team members must defuse any 
+bombs that threaten the payloads.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the payloads. 
+
+Other Notes: There are 2 payloads on the
+trains in the mission.
+
+ -
+
+Greetings fly to: 
+
+- [LGC]-Clan
+- -[LG]-Clan
+- Kellerassel-Clan
+- VeA`Gizmoxx
+- Assel|Gonz
+- mr.tix

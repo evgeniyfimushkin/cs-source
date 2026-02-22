@@ -1,0 +1,36 @@
+deathrun_iceworld_v2
+by 'cS.Metz
+
+=====
+
+Credits:
+
+Map design and creation by 'cS.Metz
+with special thanks to Fibbs
+and my friends for some trap ideas
+
+=====
+
+Map Details:
+
+- 15 traps (two skill/random)
+- 3 standard endings
+- 2 small secrets
+- 1 secret ending
+- AFK Timer (one minute)
+- Map Timer (five minutes)
+
+=====
+
+Update Log:
+
+v2
+- Changed AWP/Knife endings
+- Added 3D Skybox
+- Disabled fall damage
+- Altered trap decals
+- Minor bug fixes
+- Damage per second traps now do more damage
+
+v1beta
+- Release version

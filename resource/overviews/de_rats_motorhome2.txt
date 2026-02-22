@@ -1,0 +1,9 @@
+"de_rats_motorhome2"
+{
+	"material"	"overviews/de_rats_motorhome2"
+	"pos_x"		"-2599"
+	"pos_y"		"5521"
+	"scale"		"6"
+	"rotate"	"0"
+	"zoom"		"3"
+}
